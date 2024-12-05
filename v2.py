@@ -44,3 +44,5 @@ if like == does_he:
     print("nice:)")
 elif like == nope:
     print("too bad, try another password")
+
+input("Press Enter to exit")
