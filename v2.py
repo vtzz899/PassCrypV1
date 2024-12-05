@@ -46,7 +46,3 @@ elif like == nope:
     print("too bad, try another password")
 
 input("\nPress Enter to exit...")
-
-except Exception as e:
-    print(f"An error occurred: {e}")
-    input("\nPress Enter to exit...")  # Waits for user input before closing
