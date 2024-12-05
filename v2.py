@@ -4,7 +4,6 @@ import hashlib
 def hash_password(password):
     """
     Hashes a password using SHA-512 algorithm.
-
     :param password: The password to be hashed.
     :return: The hashed password.
     """
@@ -44,5 +43,5 @@ if like == does_he:
     print("nice:)")
 elif like == nope:
     print("too bad, try another password")
-
-input("Press Enter to exit")
+    print("too bad, try another password")
+input("\nPress Enter to exit...")
