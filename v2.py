@@ -45,4 +45,5 @@ if like == does_he:
 elif like == nope:
     print("too bad, try another password")
 
+print("if you with to exit -")
 input("\nPress Enter to exit...")
